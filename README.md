@@ -1,0 +1,2 @@
+we’ll learn how to implement a Convolutional Neural Network (CNN) from scratch using Keras. Here, we show a CNN architecture similar to the structure of VGG-16 but with fewer layers. We will learn how to model this architecture and train it on a small dataset called CIFAR-10. 
+We’ll also use this as an opportunity to introduce a new layer type called Dropout, which is often used in models to mitigate the effects of overfitting.
